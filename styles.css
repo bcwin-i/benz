@@ -1,0 +1,44 @@
+body, html{
+	height: 100%;
+	width: 100%;
+	background: url(landing_image.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+ 	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	color: whitesmoke;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.buffer{
+	height: 6rem;
+}
+
+hr {
+  border-color: white;
+}
+
+p{
+	color: white;
+	padding: 30px;
+	background-color: rgba(0, 0, 0, 0.8) ;
+	font-family: 'Red Hat Display', sans-serif;
+}
+
+.btn{
+	width: 185px;
+	font-family: 'Red Hat Display', sans-serif;
+	border-radius: 300px;
+}
+
+.btn-outline-secondary {
+	background-color: white;
+	border: none;
+}
+
+
+
